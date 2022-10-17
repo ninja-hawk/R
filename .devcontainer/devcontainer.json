@@ -1,0 +1,22 @@
+{
+  "name": "${localWorkspaceFolderBasename}",
+  "dockerComposeFile": ["../docker-compose.yml"],
+  "service": "rstudio",
+  "workspaceFolder": "/home/rstudio/works",
+  "settings": {
+    "r.rterm.linux": "/usr/local/bin/radian",
+    "r.bracketedPaste": true,
+    "[r]": {
+      "editor.wordSeparators": "`~!@#%$^&*()-=+[{]}\\|;:'\",<>/?"
+    },
+    "terminal.integrated.profiles.linux": {
+      "radian": {
+        "path": "/usr/local/bin/radian",
+        "overrideName": true
+      }
+    }
+  },
+  "extensions": ["ikuyadeu.r"],
+  "shutdownAction": "none",
+  "remoteUser": "rstudio"
+}

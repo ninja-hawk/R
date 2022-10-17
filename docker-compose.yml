@@ -1,0 +1,13 @@
+version: '3'
+services:
+    rstudio:
+        env_file: .env
+        build:
+            context: ./.devcontainer
+        environment:
+            - TZ=Asia/Tokyo
+        ports:
+            - "8787:8787"
+        volumes:
+            - ./.rstudio_config:/home/rstudio/.config
+            - ./works:/home/rstudio/works
