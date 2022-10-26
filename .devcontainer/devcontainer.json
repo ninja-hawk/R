@@ -16,7 +16,7 @@
       }
     }
   },
-  "extensions": ["ikuyadeu.r"],
+  "extensions": ["ikuyadeu.r", "reditorsupport.r-lsp", "REditorSupport.r"],
   "shutdownAction": "none",
   "remoteUser": "rstudio"
 }

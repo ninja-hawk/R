@@ -1,0 +1,11 @@
+Write a report of your answers to the exercise of Class 2 (last page of lecture material).
+
+Note:
+
+1. Make a report by Microsoft Word or pdf.
+
+2. Write your name and student number in the report.
+
+3. Write the answers with the calculation process of them, such as R codes of the calculation and Excel commands.
+
+4. For the answer to 1, state clearly which of the two variables is used for dependent/independent variable, and the reason for your choice.

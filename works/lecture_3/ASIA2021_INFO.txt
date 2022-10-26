@@ -1,0 +1,22 @@
+Asia2021.txt contains the data of 25 Asian countries in the year of 2021, listed in the World Happiness Report:
+https://worldhappiness.report/ed/2022/
+The variables in the file are:
+Country: the country from which the data were collected
+Ladder: the national average response to the question "Please imagine a ladder, with steps numbered from 0 at the bottom to 10 at the top. The top of the ladder represents the best possible life for you and the bottom of the ladder represents the worst possible life for you.On which step of the ladder would you say you personally feel you stand at this time?"
+LogGDP: the log-transformed value of GDP per capita for that country
+Support: national average of the binary responses (either 0 or 1) to the GWP question "If you were in trouble, do you have relatives or friends you can count on to help you whenever you need them, or not?"
+HLEB: healthy life expectancy at birth, i.e. average number of years that a person can expect to live in "full health" by taking into account years lived in less than full health due to disease and/or injury (definition given by WHO
+https://www.who.int/data/gho/indicator-metadata-registry/imr-details/66
+Choice: the national average of responses to the question "Are you satisfied or dissatisfied with your freedom to choose what
+you do with your life?"
+Generos: the degree of generosity, represented by the residual of regressing national average of response to the GWP
+question "Have you donated money to a charity in the past month?" on GDP per capita
+Positive: positive affect, defined as the average of three positive affect measures in GWP, laugh, enjoyment and doing interesting things
+Negative: negative affect, defined as the average of three negative affect measures in GWP, worry, sadness and anger
+
+For further details, see https://worldhappiness.report/ed/2022/
+Particularly, Technical Box 1
+https://worldhappiness.report/ed/2022/happiness-benevolence-and-trust-during-covid-19-and-beyond/
+and Appendix 1 for chapter 2
+https://happiness-report.s3.amazonaws.com/2022/Appendix_1_StatiscalAppendix_Ch2.pdf
+ 

@@ -1,0 +1,11 @@
+1. In the 2nd question of Class 2 Exercise, is the regression coefficient significant?  Answer with the command and output of R or Excel that lead to your judgment.
+
+
+2. Compute the Pearson correlation coefficient between Ladder and Positive of Asia2021.txt, and conduct a two-tailed test of that coefficient, with significance level α set at 0.01, in the way introduced in the lecture.
+
+Note.
+
+# For the two-tailed test, compute t by yourself, from the correlation coefficient, sample size etc.  Do not use R functions or Excel commands that just give you the answer.
+
+# Report the answers in a Microsoft Word or a pdf file.
+
