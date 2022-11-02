@@ -1,0 +1,7 @@
+Using Asia2021.txt, make a multiple regression analysis with Ladder being a dependent variable and all the other variables being independent variables.  Interpret the result, i.e, whether the coeffcient of each independent variable is significant, and how those significant independent variables affted the dependent variable.
+
+ Note:
+
+1. Include the calculation process and output of R or Excel.
+
+2. Make and submit a report in Microsoft Word or pdf.
