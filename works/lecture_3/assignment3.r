@@ -12,6 +12,7 @@ n <- length(asia$Ladder)
 #The parameter to test
 t <- r / (sqrt((1 - r^2) / (n - 2)))
 
+print(t)
 
 # Two-tailed t tests
 # The example below shows α = 0.01
