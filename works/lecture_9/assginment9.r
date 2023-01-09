@@ -1,6 +1,6 @@
 # Put Asia2021_SR.txt in an appropriate directory
 # Read data
-asia2021sr <- read.table("lecture_8/Asia2021_SR.txt", header = TRUE)
+asia2021sr <- read.table("lecture_9/Asia2021_SR.txt", header = TRUE)
 
 print("ANOVA")
 

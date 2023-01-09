@@ -1,6 +1,6 @@
 # Put 3gswnr.txt in an appropriate directory
 # Read data
-game3 <- read.table("lecture_8/3gswnr.txt", header = TRUE)
+game3 <- read.table("lecture_9/3gswnr.txt", header = TRUE)
 
 print("ANOVA")
 
