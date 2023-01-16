@@ -178,13 +178,13 @@ print("Multiple Comparison")
 
 # compute the Test Static
 hi_vs_md <- (mean_hi - mean_md) /
-                sqrt(2 * ms_e / r)
+                sqrt(2 * ms_e / (r * b))
 hi_vs_lo <- (mean_hi - mean_lo) /
-                sqrt(2 * ms_e / r)
+                sqrt(2 * ms_e / (r * b))
 md_vs_lo <- (mean_md - mean_lo) /
-                sqrt(2 * ms_e / r)
+                sqrt(2 * ms_e / (r * b))
 asia_vs_europe <- (mean_europe - mean_asia) /
-                sqrt(2 * ms_e / r)
+                sqrt(2 * ms_e / (r * b))
 
 print("hi_vs_md")
 print(hi_vs_md)
